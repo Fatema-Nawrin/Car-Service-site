@@ -1,0 +1,17 @@
+.register-form {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.register-form h2 {
+    color: green;
+    margin-top: 1rem;
+}
+
+.register-form input {
+    display: block;
+    margin: 1rem 0;
+    width: 100%;
+    padding-left: 1rem;
+    height: 45px;
+}

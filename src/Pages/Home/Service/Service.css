@@ -1,0 +1,10 @@
+.service {
+    border: 1px solid gainsboro;
+    border-radius: 1rem;
+    padding-bottom: 1rem;
+    text-align: center;
+}
+
+.service img {
+    border-radius: 1rem;
+}
